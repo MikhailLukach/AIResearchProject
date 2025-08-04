@@ -410,9 +410,10 @@ While the current implementation works reliably, there's potential for these add
 
 # Sources And Inspirations
 - Epic History's Quick Guide on Napoleonic infantry tactics helped to get a basic idea of how the protocols for switching from one formation to another could look like.
-![Epic History's Quick Guide on Napoleonic infantry tactics](https://www.youtube.com/watch?v=cl7ElFROgts)
 
-- Andrew T. Christensen and Squirrel Eiserloh thesis paper on [Formation Movement for Real-Time Strategy Games](https://andrewtc.dev/docs/Christensen_Eiserloh_Thesis.pdf), was also a wodnerful inspiration for how I can do movement and slot based agent management within my system.
+[![Epic History's Quick Guide on Napoleonic infantry tactics](https://img.youtube.com/vi/cl7ElFROgts/hqdefault.jpg)](https://www.youtube.com/watch?v=cl7ElFROgts)
+
+- Andrew T. Christensen and Squirrel Eiserloh thesis paper on [Formation Movement for Real-Time Strategy Games](https://andrewtc.dev/docs/Christensen_Eiserloh_Thesis.pdf), was also a wonderful inspiration for how I can do movement and slot based agent management within my system.
 
 - The Total War series helped to also inspire me, mostly with how selection is done and the grouping system that can be used to turn companies into battalions. Specifically, Total War Napoleon and Total War Warhammer.
 
